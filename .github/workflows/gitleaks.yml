@@ -10,7 +10,7 @@ jobs:
     name: Gitleaks-Scan
     runs-on: ubuntu-latest
     env:
-      JENKINS_JOB:  https://d284-122-171-16-219.ngrok.io/job/gitleaks-pipeline-demo/
+      JENKINS_JOB:  https://227e-122-171-16-219.ngrok.io/job/gitleaks-pipeline-demo/
     steps:
     - name: Trigger Job
       run: |
