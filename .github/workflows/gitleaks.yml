@@ -14,6 +14,6 @@ jobs:
     steps:
     - name: Trigger Job
       run: |
-        curl $JENKINS_JOB --header "Authorization: Basic 11e76f100ae8765f5437d54275d0d75ece"
+        curl $JENKINS_JOB --header "Authorization: Basic bmloYWw6MTFlNzZmMTAwYWU4NzY1ZjU0MzdkNTQyNzVkMGQ3NWVjZQo="
     -  name: Branch Name
        run: echo running on branch ${{ github.head_ref || github.ref_name }} 
