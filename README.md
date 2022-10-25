@@ -6,6 +6,10 @@ AWS_SECRET=AKIAIMNOJVGFDXXXE4OA AWS-Secret: AKIAIMNOJVGFDXXXE4OA
 
 AWS_SECRET=AKIAIMNOJVGFDXXXE4OA AWS-Secret: AKIAIMNOJVGFDXXXE4OB
 
+AWS_SECRET=AKIAIMNOJVGFDXXXE4OA AWS-Secret: AKIAIMNOJVGFDXXXE48A
+
+SECRET_API_KEY=AKIAFAKE3223232323
+
 [![version](https://img.shields.io/badge/version-1.0-red)](https://www.github.com/iamnihal/warf)
 [![python](https://img.shields.io/badge/python-3.8.1-blue.svg?logo=python&labelColor=yellow)](https://www.python.org/downloads/)
 [![django](https://img.shields.io/badge/django-3.1.7-blue.svg?logo=django&labelColor=grey)](https://www.python.org/downloads/)
