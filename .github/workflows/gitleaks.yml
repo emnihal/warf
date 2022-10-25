@@ -3,7 +3,7 @@ name: gitleaks-scan
 on:
   push:
     branches:
-      - '*'
+      - "develop"
 jobs:
   build:
     name: Gitleaks-Scan
