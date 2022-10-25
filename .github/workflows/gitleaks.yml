@@ -3,14 +3,13 @@ name: gitleaks-scan
 on:
   push:
     branches:
-      - main
-      - develop
+      - '*'
 jobs:
   build:
     name: Gitleaks-Scan
     runs-on: ubuntu-latest
     env:
-      JENKINS_JOB:  https://1481-49-207-229-213.ngrok.io/job/gitleaks-pipeline-demo/buildWithParameters?branchName=${{ github.head_ref || github.ref_name }}&repoName=${{ github.event.repository.name }}
+      JENKINS_JOB:  https://38f0-49-207-229-213.ngrok.io/job/gitleaks-pipeline-demo/buildWithParameters?branchName=${{ github.head_ref || github.ref_name }}&repoName=${{ github.event.repository.name }}
     steps:
     - name: Trigger Job
       run: |
