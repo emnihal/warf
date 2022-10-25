@@ -1,14 +1,14 @@
+<<<<<<< HEAD
 <h1 align="center">WARF: Web Application Reconnaissance Frameworks - Test 92</h1>
 
 AWS_SECRET=AKIAIMNOJVGFDXXXE4OA AWS-Secret: AKIAIMNOJVGFDXXXE4OA
 
 AWS_SECRET=AKIAIMNOJVGFDXXXE4OA AWS-Secret: AKIAIMNOJVGFDXXXE4OA
 
-AWS_SECRET=AKIAIMNOJVGFDXXXE4OA AWS-Secret: AKIAIMNOJVGFDXXXE4OB
-
-AWS_SECRET=AKIAIMNOJVGFDXXXE4OA AWS-Secret: AKIAIMNOJVGFDXXXE48A
-
 SECRET_API_KEY=AKIAFAKE3223232323
+=======
+<h1 align="center">WARF: Web Application Reconnaissance Frameworks - Test 4</h1>
+>>>>>>> a2fbbd8bcebdc214e88411ed6bc61a2f5da45d1b
 
 [![version](https://img.shields.io/badge/version-1.0-red)](https://www.github.com/iamnihal/warf)
 [![python](https://img.shields.io/badge/python-3.8.1-blue.svg?logo=python&labelColor=yellow)](https://www.python.org/downloads/)
