@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 <h1 align="center">WARF: Web Application Reconnaissance Frameworks - Test 92</h1>
 
-AWS_SECRET=AKIAIMNOJVGFDXXXE4WA AWS-Secret: AKIAIMNOJVGFDXXXE4NA
+AWS_SECRET=AKIAIMNOJVGFDXXXE4WA AWS-Secret: AKIAIMNOJVGFDXXXE4NAA
 =======
 <h1 align="center">WARF: Web Application Reconnaissance Frameworks - Test 4</h1>
 >>>>>>> a2fbbd8bcebdc214e88411ed6bc61a2f5da45d1b
