@@ -1,7 +1,7 @@
 <h1 align="center">WARF: Web Application Reconnaissance Frameworks - Test 92</h1>
 
-AWS_SECRET_KEY=AKIAIMNOJVGFDXXXE4OA
-AWS-Secret_Dummy_KEY: AKIAIMNOJVGFDXXXE4OA
+AWS_SECRET_KEY=AKIAXXXXXXXXXX
+AWS-Secret_Dummy_KEY: AKIAIYYYYYYYYYY
 
 [![version](https://img.shields.io/badge/version-1.0-red)](https://www.github.com/iamnihal/warf)
 [![python](https://img.shields.io/badge/python-3.8.1-blue.svg?logo=python&labelColor=yellow)](https://www.python.org/downloads/)
